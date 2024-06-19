@@ -1,4 +1,3 @@
-# hello-world
-test
+# About ME
 Hi i @Adinlo !
-I’m interested in new ways of coding and learning 
+I’m begginer and student in Data Science and IA 
